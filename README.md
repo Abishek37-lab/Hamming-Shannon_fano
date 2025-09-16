@@ -35,10 +35,15 @@ print(f"Variance is : {var}")
 ![WhatsApp Image 2025-09-16 at 23 09 41_e30fe6a9](https://github.com/user-attachments/assets/736ec652-c998-4645-8ec4-3d9d648d9ab3)
 # Output
 Average Codeword Length is : 2.1500000000000004
+
 Entropy is : 1.844
+
 Efficiency is : 85.8%
+
 Redundancy is : 0.142
+
 Variance is : 0.128
+
 # Results:
 The Huffman and Shannon-Fano coding techniques have been successfully applied to
  the given source. The average codeword length, entropy, variance, redundancy, and
