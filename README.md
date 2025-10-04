@@ -28,11 +28,8 @@ print(f"Variance is : {var}")
 ```
 
 # Calculation:
-![WhatsApp Image 2025-09-16 at 23 08 41_25de5aaf](https://github.com/user-attachments/assets/53557990-cd59-4eb6-95df-a824c4993575)
+![WhatsApp Image 2025-10-04 at 15 32 43_fd6cbe80](https://github.com/user-attachments/assets/d474062f-0892-47ab-822e-51496a3140ce)
 
-![WhatsApp Image 2025-09-16 at 23 09 04_7661f244](https://github.com/user-attachments/assets/2bbb6891-7bb5-4cca-bdf8-5ab38e14cf4e)
-
-![WhatsApp Image 2025-09-16 at 23 09 41_e30fe6a9](https://github.com/user-attachments/assets/736ec652-c998-4645-8ec4-3d9d648d9ab3)
 # Output
 Average Codeword Length is : 2.1500000000000004
 
